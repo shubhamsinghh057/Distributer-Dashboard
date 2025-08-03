@@ -36,9 +36,9 @@ This dashboard provides actionable insights into:
 
 ## 📊 Dashboard preview
 
-![Dashboard Preview](Screenshots/SS1.jpeg)
-![Dashboard Preview](Screenshots/SS2.jpeg)
-![Dashboard Preview](Screenshots/SS3.jpeg)
+![Dashboard Preview](/Screenshots/SS1.jpeg)
+![Dashboard Preview](/Screenshots/SS2.jpeg)
+![Dashboard Preview](/Screenshots/SS3.jpeg)
 
 ---
 
